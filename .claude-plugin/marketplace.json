@@ -1,0 +1,7 @@
+{
+  "name": "jatins-stickman-skill",
+  "owner": { "name": "Jatin" },
+  "plugins": [
+    { "name": "jatins-stickman-skill", "source": "./", "description": "Type /stickman to make a stick-figure video. After installing the plugin run: bash ~/.claude/plugins/**/skills/stickman/install.sh (or use the git-clone installer in the README)." }
+  ]
+}
